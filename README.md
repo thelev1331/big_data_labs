@@ -1,5 +1,5 @@
 1. RideCleansingExercise
-![image](https://github.com/user-attachments/assets/de42b5f9-08f5-43d3-ae88-b4d9934a990f)
+![image](https://github.com/user-attachments/assets/e9561ad3-14d1-494a-8888-2e587bf53e75)
 2. RidesAndFaresExercise
 ![image](https://github.com/user-attachments/assets/3f0e9c57-970d-4699-b650-8586993e8fc9)
 3. HourlyTipsExerxise
